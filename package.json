@@ -1,0 +1,28 @@
+{
+  "name": "zoosync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zooSync.js",
+  "dependencies": {
+    "download": "^7.0.0",
+    "firebase": "^5.0.3",
+    "firebase-admin": "^5.12.1",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.10",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GwenaelOo/zooSync.git"
+  },
+  "author": "Gwenael Leroutier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GwenaelOo/zooSync/issues"
+  },
+  "homepage": "https://github.com/GwenaelOo/zooSync#readme"
+}
